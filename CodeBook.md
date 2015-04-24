@@ -2,15 +2,25 @@ Each of the fields has a mean and standard deviation except ActivityName and Sub
 Here is the list of the result dataset:
 
 ActivityName
-SubjectID 
+
+SubjectID
+
 tBodyAccMeanX
-tBodyAccMeanY 
+
+tBodyAccMeanY
+
 tBodyAccMeanZ
+
 tBodyAccStdX
+
 tBodyAccStdY
+
 tBodyAccStdZ
+
 tGravityAccMeanX
+
 tGravityAccMeanY
+
 tGravityAccMeanZ
 tGravityAccStdX
 tGravityAccStdY
