@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Peer Assessment Project
 
-Here you can find the fulldescription of data:
+Here you can find the full description of data:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
