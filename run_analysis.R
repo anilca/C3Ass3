@@ -44,5 +44,6 @@ cleanData = function() {
     
     data <- dcast(meltedData, ActivityName + SubjectID ~ variable, mean)
     write.table(data, "cleanData.txt", row.name=FALSE)
+    data
 }
 
